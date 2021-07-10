@@ -1,0 +1,238 @@
+County, FIPS,"Age",Lower,Upper 95%,AverageAnnual,Recent Trend,5-Year,LowerConfidenceInterval,UpperConfidenceInterval
+"Autauga County, Alabama(6,10)",1001,74.9,65.1,85.7,43,stable,0.5,-14.9,18.6
+"Baldwin County, Alabama(6,10)",1003,66.9,62.4,71.7,170,stable,3,-10.2,18.3
+"Barbour County, Alabama(6,10)",1005,74.6,61.8,89.4,25,stable,-6.4,-18.3,7.3
+"Bibb County, Alabama(6,10)",1007,86.4,71,104.2,23,stable,-4.5,-31.4,32.9
+"Blount County, Alabama(6,10)",1009,69.7,61.2,79,51,stable,-13.6,-27.8,3.4
+"Bullock County, Alabama(6,10)",1011,65.8,47.3,89.6,9,stable,7.2,-27.6,58.7
+"Butler County, Alabama(6,10)",1013,58.3,46.4,72.7,17,stable,2,-10.7,16.6
+"Calhoun County, Alabama(6,10)",1015,84.2,77.5,91.3,120,stable,-3.8,-13.9,7.5
+"Chambers County, Alabama(6,10)",1017,75.4,64.4,87.9,34,falling,-7.9,-8.5,-7.3
+"Cherokee County, Alabama(6,10)",1019,82.4,69.8,96.9,32,stable,7.1,-13,31.7
+"Chilton County, Alabama(6,10)",1021,73.9,63.7,85.4,39,stable,-0.2,-17.6,20.8
+"Choctaw County, Alabama(6,10)",1023,49.2,36.3,66,10,stable,9.7,-31.4,75.3
+"Clarke County, Alabama(6,10)",1025,69.5,57.3,83.7,23,stable,-1.3,-12.4,11.1
+"Clay County, Alabama(6,10)",1027,83.3,65.8,104.5,16,stable,-13.8,-30.7,7.2
+"Cleburne County, Alabama(6,10)",1029,74.9,58.1,95.4,14,stable,4.8,-20.1,37.4
+"Coffee County, Alabama(6,10)",1031,71.5,62.3,81.9,43,stable,-7.2,-20,7.6
+"Colbert County, Alabama(6,10)",1033,75.9,67.2,85.5,57,stable,-4.4,-15.6,8.3
+"Conecuh County, Alabama(6,10)",1035,73.5,57.1,93.8,14,stable,-9.7,-41.4,39.2
+"Coosa County, Alabama(6,10)",1037,82.6,63.9,106,14,stable,-11.5,-43.5,38.7
+"Covington County, Alabama(6,10)",1039,83,72.3,95.1,44,stable,5.7,-11.2,25.9
+"Crenshaw County, Alabama(6,10)",1041,61.5,46.3,80.6,11,stable,14.7,-21.8,68.4
+"Cullman County, Alabama(6,10)",1043,69.6,62.6,77.3,73,stable,-2.2,-20.4,20.3
+"Dale County, Alabama(6,10)",1045,76.7,66.7,87.7,44,stable,-3.2,-11.4,5.7
+"Dallas County, Alabama(6,10)",1047,76.2,65.6,88,39,stable,7.4,-16.9,38.8
+"DeKalb County, Alabama(6,10)",1049,60.8,53.5,68.9,51,stable,-2.1,-11.9,8.8
+"Elmore County, Alabama(6,10)",1051,78.1,69.7,87.2,66,stable,-3.4,-13.9,8.4
+"Escambia County, Alabama(6,10)",1053,75.5,64.8,87.6,36,stable,0,-21.5,27.2
+"Etowah County, Alabama(6,10)",1055,81.9,75.1,89.1,110,stable,-0.1,-9.8,10.6
+"Fayette County, Alabama(6,10)",1057,77.3,62.3,95.3,19,stable,-6.1,-36.5,38.8
+"Franklin County, Alabama(6,10)",1059,72.4,60.7,85.8,28,stable,-3.2,-18.9,15.6
+"Geneva County, Alabama(6,10)",1061,90.3,77.2,105.2,35,stable,-2.7,-16.1,12.8
+"Greene County, Alabama(6,10)",1063,87.9,65,117,10,stable,10.2,-28.3,69.3
+"Hale County, Alabama(6,10)",1065,71,55,90.6,14,stable,1.8,-25.5,39
+"Henry County, Alabama(6,10)",1067,66.5,52.7,83.3,17,falling,-14.3,-24.3,-2.9
+"Houston County, Alabama(6,10)",1069,70.8,64.2,77.8,88,stable,-2.3,-6.7,2.2
+"Jackson County, Alabama(6,10)",1071,80.9,71.7,91.1,58,stable,-2.6,-14.7,11.3
+"Jefferson County, Alabama(6,10)",1073,65.1,62.5,67.8,482,falling,-1.8,-3.3,-0.3
+"Lamar County, Alabama(6,10)",1075,80.4,64,100.3,17,stable,4.1,-14.5,26.6
+"Lauderdale County, Alabama(6,10)",1077,69.3,62.9,76.3,87,stable,-1.3,-8.2,6.1
+"Lawrence County, Alabama(6,10)",1079,88.1,75.6,102.3,37,stable,-9,-28.3,15.3
+"Lee County, Alabama(6,10)",1081,59.4,53.2,66.1,71,stable,0.3,-4.6,5.6
+"Limestone County, Alabama(6,10)",1083,73.4,65.7,81.8,69,stable,-2.7,-11.3,6.6
+"Lowndes County, Alabama(6,10)",1085,57.6,41.1,79,8,stable,-14.5,-42.7,27.6
+"Macon County, Alabama(6,10)",1087,57.9,45.3,73.3,15,stable,-6.1,-37.2,40.5
+"Madison County, Alabama(6,10)",1089,64.8,61.1,68.6,236,falling,-4.6,-7.2,-1.9
+"Marengo County, Alabama(6,10)",1091,61.6,49.3,76.4,17,stable,0.1,-9,10.1
+"Marion County, Alabama(6,10)",1093,74.2,63.1,86.9,33,stable,1.2,-12.5,17.1
+"Marshall County, Alabama(6,10)",1095,79.4,72.1,87.2,90,stable,-5.3,-12.6,2.6
+"Mobile County, Alabama(6,10)",1097,75.4,71.9,79.1,347,stable,-2.1,-6.5,2.4
+"Monroe County, Alabama(6,10)",1099,62.3,50.2,76.7,19,stable,-8.5,-26.5,13.9
+"Montgomery County, Alabama(6,10)",1101,61,56.5,65.6,144,falling,-9.6,-15.1,-3.8
+"Morgan County, Alabama(6,10)",1103,80.4,74,87.4,116,stable,-3.2,-12,6.4
+"Perry County, Alabama(6,10)",1105,83.1,62.5,108.8,11,stable,-5,-20.5,13.6
+"Pickens County, Alabama(6,10)",1107,65.6,52.8,81,18,stable,-13.2,-26.2,2
+"Pike County, Alabama(6,10)",1109,61.8,50.5,74.9,22,stable,-11.9,-35.2,19.8
+"Randolph County, Alabama(6,10)",1111,75.5,62.2,91,24,stable,-8.5,-27.8,16
+"Russell County, Alabama(6,10)",1113,78.7,68.8,89.6,47,stable,-3.6,-15.4,9.7
+"St. Clair County, Alabama(6,10)",1115,74.7,67.1,83.1,72,stable,-2.3,-6.9,2.5
+"Shelby County, Alabama(6,10)",1117,57.1,52.2,62.2,108,stable,-6.1,-15,3.8
+"Sumter County, Alabama(6,10)",1119,55.5,40.5,74.7,9,stable,-2.3,-30.3,37.1
+"Talladega County, Alabama(6,10)",1121,74,66.5,82.1,74,stable,2.5,-1.9,7.1
+"Tallapoosa County, Alabama(6,10)",1123,70.5,61,81.3,41,stable,2,-12.1,18.3
+"Tuscaloosa County, Alabama(6,10)",1125,72.3,66.9,78.1,135,stable,-4.1,-11.4,3.7
+"Walker County, Alabama(6,10)",1127,98.3,89.2,108.1,89,stable,0.1,-9.9,11.2
+"Washington County, Alabama(6,10)",1129,74.8,58.9,93.9,16,stable,-0.5,-23.4,29.2
+"Wilcox County, Alabama(6,10)",1131,73.2,54.4,96.7,11,stable,-6.2,-24,15.8
+"Winston County, Alabama(6,10)",1133,90.8,76.9,106.7,31,stable,-12.5,-23.7,0.4
+"Anchorage Borough, Alaska(6,10)",2020,61.5,56.5,66.8,131,stable,-6.5,-12.8,0.3
+"Bethel Census Area, Alaska(6,10)",2050,62.7,40.3,91.9,6,stable,-26.1,-50.8,11.1
+"Fairbanks North Star, Alaska(6,10)",2090,58.1,49.1,68,36,stable,-8.4,-19.1,3.6
+"Juneau Borough, Alaska(6,10)",2110,35.1,24.8,47.9,9,stable,3.5,-12.3,22.2
+"Kenai Peninsula Borough, Alaska(6,10)",2122,64.9,55.4,75.4,39,stable,-12.8,-26.4,3.4
+"Ketchikan Gateway Borough, Alaska(6,10)",2130,88.3,65.7,115.9,12,stable,-16.9,-32.5,2.3
+"Kodiak Island Borough, Alaska(6,10)",2150,74.7,48.8,108.2,7,stable,-19.2,-36.4,2.7
+"Matanuska-Susitna Borough, Alaska(6,10)",2170,69.7,60.6,79.7,51,stable,1.8,-9.7,14.7
+"Nome Census Area, Alaska(6,10)",2180,103.6,68.4,148.9,6,stable,-15.3,-54.8,58.8
+"North Slope Borough, Alaska(6,10)",2185,153.4,95.2,229.4,6,stable,0.2,-34.3,52.7
+"Prince of Wales-Outer Ketchikan, Alaska(6,10)",2201,81.4,48.2,128.5,4,stable,-6.6,-36.7,37.8
+"Sitka Borough, Alaska(6,10)",2220,44,26.6,68.5,4,stable,34.9,-6.6,94.7
+"Southeast Fairbanks Census Area, Alaska(6,10)",2240,76.8,48.1,116,5,stable,4.4,-40.6,83.3
+"Valdez-Cordova Census Area, Alaska(6,10)",2261,66.1,41.1,99.9,6,stable,-9.8,-32.9,21.3
+"Wrangell-Petersburg Census Area, Alaska(6,10)",2280,78.8,51.9,115.6,6,stable,-17.3,-48.3,32.2
+"Apache County, Arizona(6,10)",4001,22.9,18.1,28.5,16,rising,13.4,2.4,25.5
+"Cochise County, Arizona(6,10)",4003,46.9,42.5,51.8,84,stable,0.9,-4.7,6.8
+"Coconino County, Arizona(6,10)",4005,36.7,31.5,42.4,39,stable,-1.3,-26.6,32.9
+"Gila County, Arizona(6,10)",4007,54.3,47.7,61.7,52,stable,-10.5,-24.4,6
+"Graham County, Arizona(6,10)",4009,45.5,36,56.7,16,stable,-5.2,-31.1,30.2
+"Greenlee County, Arizona(6,10)",4011,64,42.5,92.5,6,stable,-7.1,-31.5,26.1
+"La Paz County, Arizona(6,10)",4012,54.4,44.1,67.2,25,stable,-5.7,-27.3,22.4
+"Maricopa County, Arizona(6,10)",4013,52.2,51.2,53.2,2059,falling,-4,-5.5,-2.4
+"Mohave County, Arizona(6,10)",4015,76.6,72.6,80.9,280,stable,-0.7,-12.7,13
+"Navajo County, Arizona(6,10)",4017,39.6,34.5,45.2,46,stable,-1.1,-14.9,14.9
+"Pima County, Arizona(6,10)",4019,50.9,49.1,52.7,628,stable,-1.8,-7.4,4.1
+"Pinal County, Arizona(6,10)",4021,45.5,42.7,48.5,201,falling,-5.2,-9.5,-0.6
+"Santa Cruz County, Arizona(6,10)",4023,36.1,29,44.4,19,stable,-16.4,-48,34.4
+"Yavapai County, Arizona(6,10)",4025,51.9,48.6,55.3,203,stable,-3.7,-11.2,4.4
+"Yuma County, Arizona(6,10)",4027,48,44.1,52.1,115,stable,-4.3,-17.5,10.9
+"Arkansas County, Arkansas(6,10)",5001,85.9,70.1,104.4,21,stable,-6.8,-14.3,1.4
+"Ashley County, Arkansas(6,10)",5003,77,63.3,92.9,23,stable,6.2,-10.4,25.8
+"Baxter County, Arkansas(6,10)",5005,85.6,76.4,95.9,71,stable,-2.1,-11.8,8.7
+"Benton County, Arkansas(6,10)",5007,56.4,52.1,60.9,129,stable,1.3,-4.2,7.2
+"Boone County, Arkansas(6,10)",5009,67.7,58,78.8,35,stable,4.4,-11.7,23.4
+"Bradley County, Arkansas(6,10)",5011,86.3,66.3,111,13,stable,6.5,-12.1,29
+"Calhoun County, Arkansas(6,10)",5013,82.5,56.2,118.7,6,stable,11.9,-25.1,67.1
+"Carroll County, Arkansas(6,10)",5015,59.1,48.9,71.1,25,stable,5.1,-5.8,17.2
+"Chicot County, Arkansas(6,10)",5017,76.4,58.3,99,12,stable,-1.4,-40,62.1
+"Clark County, Arkansas(6,10)",5019,71.6,57.8,87.8,19,stable,8,-18,42.3
+"Clay County, Arkansas(6,10)",5021,108.7,90.6,129.9,26,stable,2.1,-10,15.9
+"Cleburne County, Arkansas(6,10)",5023,83.6,72,97,38,stable,3,-14.5,24.1
+"Cleveland County, Arkansas(6,10)",5025,77.5,56.6,104.5,9,stable,15.8,-24.9,78.4
+"Columbia County, Arkansas(6,10)",5027,72,58.8,87.3,21,stable,8.8,-17,42.5
+"Conway County, Arkansas(6,10)",5029,75,61.4,91.1,21,stable,-12.9,-29.1,7.1
+"Craighead County, Arkansas(6,10)",5031,74.6,67.1,82.7,74,stable,4.4,-8.8,19.6
+"Crawford County, Arkansas(6,10)",5033,79.1,70,89.1,56,stable,0.2,-8.5,9.7
+"Crittenden County, Arkansas(6,10)",5035,75.6,64.9,87.5,37,stable,4.1,-3.7,12.5
+"Cross County, Arkansas(6,10)",5037,77.5,62,95.9,18,stable,4.5,-25.2,45.9
+"Dallas County, Arkansas(6,10)",5039,82.2,60.1,110.8,9,stable,-0.6,-45.5,81.3
+"Desha County, Arkansas(6,10)",5041,79.2,61,101.5,13,stable,7.8,-14.7,36.2
+"Drew County, Arkansas(6,10)",5043,77.3,61.8,95.6,17,falling,-18.2,-32.8,-0.4
+"Faulkner County, Arkansas(6,10)",5045,75.9,68.4,84,78,stable,4.5,-4.9,14.8
+"Franklin County, Arkansas(6,10)",5047,77.1,62.2,94.8,19,stable,-11.7,-38.4,26.4
+"Fulton County, Arkansas(6,10)",5049,64.7,49.4,84.2,14,stable,-3.8,-25.9,24.8
+"Garland County, Arkansas(6,10)",5051,80.6,74.2,87.6,121,stable,-0.8,-11.2,10.8
+"Grant County, Arkansas(6,10)",5053,96.1,78.1,117.2,21,stable,-1.2,-27.9,35.2
+"Greene County, Arkansas(6,10)",5055,89.2,77.8,101.9,45,stable,5,-4.5,15.5
+"Hempstead County, Arkansas(6,10)",5057,60.6,48.4,75.2,17,stable,5.6,-14.8,30.8
+"Hot Spring County, Arkansas(6,10)",5059,94.2,81.6,108.5,41,stable,-0.4,-9.5,9.5
+"Howard County, Arkansas(6,10)",5061,96.2,76.2,120.1,16,stable,6.6,-14.4,32.8
+"Independence County, Arkansas(6,10)",5063,82.3,70.9,95,38,stable,1.8,-23.1,34.7
+"Izard County, Arkansas(6,10)",5065,55.9,43.1,72.2,13,stable,-0.3,-22.2,27.8
+"Jackson County, Arkansas(6,10)",5067,104.4,86.5,125.2,24,stable,-4.8,-37.2,44.2
+"Jefferson County, Arkansas(6,10)",5069,97.5,88.3,107.5,84,stable,-1,-20.1,22.6
+"Johnson County, Arkansas(6,10)",5071,97.2,81.9,114.5,29,falling,-7.7,-10.9,-4.5
+"Lafayette County, Arkansas(6,10)",5073,98.1,73.9,128.9,12,falling,-11.1,-17.2,-4.5
+"Lawrence County, Arkansas(6,10)",5075,102.7,85.3,123.1,25,stable,6.4,-7.7,22.7
+"Lee County, Arkansas(6,10)",5077,57,40.2,79.1,8,stable,-11,-29.6,12.6
+"Lincoln County, Arkansas(6,10)",5079,63.4,46.7,84.4,10,stable,-15.4,-42.6,24.6
+"Little River County, Arkansas(6,10)",5081,79.5,61.8,101.1,14,stable,0.5,-17.9,23
+"Logan County, Arkansas(6,10)",5083,87,72.9,103.3,27,stable,6.2,-20.2,41.3
+"Lonoke County, Arkansas(6,10)",5085,91.9,81.8,102.9,62,stable,2.2,-4.6,9.6
+"Madison County, Arkansas(6,10)",5087,67.8,52.6,86.5,14,stable,4.4,-23.5,42.5
+"Marion County, Arkansas(6,10)",5089,82.7,68.6,99.7,26,stable,2.6,-9.7,16.5
+"Miller County, Arkansas(6,10)",5091,81.2,70.3,93.4,41,stable,-1.4,-24.7,29.3
+"Mississippi County, Arkansas(6,10)",5093,73.6,63.2,85.3,36,stable,-0.7,-18.9,21.5
+"Monroe County, Arkansas(6,10)",5095,89.5,67.3,118,11,stable,-2.6,-17.5,15.1
+"Montgomery County, Arkansas(6,10)",5097,67.5,50.2,90.2,11,stable,18.8,-24.7,87.5
+"Nevada County, Arkansas(6,10)",5099,69.2,50.2,94,9,stable,5.7,-4.1,16.6
+"Newton County, Arkansas(6,10)",5101,63.9,46.1,88,9,stable,17.7,-21.7,77
+"Ouachita County, Arkansas(6,10)",5103,84,71,99,30,stable,-4.3,-25.4,23
+"Perry County, Arkansas(6,10)",5105,98.8,76.9,125.7,14,stable,3.3,-28.6,49.6
+"Phillips County, Arkansas(6,10)",5107,88.1,72.4,106.3,23,stable,4.4,-5.1,14.8
+"Pike County, Arkansas(6,10)",5109,87.8,67.5,112.7,13,stable,3.3,-16.3,27.4
+"Poinsett County, Arkansas(6,10)",5111,114,97.9,132.3,36,stable,1.6,-11.1,16
+"Polk County, Arkansas(6,10)",5113,67.1,54.9,81.6,22,stable,12.4,-16.6,51.6
+"Pope County, Arkansas(6,10)",5115,86.3,76.7,96.9,59,stable,-6.9,-16.5,3.8
+"Prairie County, Arkansas(6,10)",5117,89,67.3,116.7,12,stable,-9.6,-42.5,42.2
+"Pulaski County, Arkansas(6,10)",5119,68,64.4,71.7,277,stable,-1.5,-8,5.4
+"Randolph County, Arkansas(6,10)",5121,83.9,68.2,102.5,21,stable,4.3,-4.9,14.4
+"St. Francis County, Arkansas(6,10)",5123,65.2,52.8,79.8,20,stable,-0.5,-16.1,17.9
+"Saline County, Arkansas(6,10)",5125,73.9,67.4,80.8,100,stable,0,-4.3,4.4
+"Scott County, Arkansas(6,10)",5127,91.5,71.5,116.1,15,stable,1.1,-15.5,20.9
+"Searcy County, Arkansas(6,10)",5129,72.1,53.2,97.1,10,stable,9.4,-15.6,41.8
+"Sebastian County, Arkansas(6,10)",5131,78.2,71.6,85.2,108,stable,0.3,-11.1,13.1
+"Sevier County, Arkansas(6,10)",5133,70.4,53.9,90.5,12,stable,10,-20.3,51.8
+"Sharp County, Arkansas(6,10)",5135,89.3,74,107.3,26,stable,-4.3,-33.5,37.6
+"Stone County, Arkansas(6,10)",5137,66.5,51.1,85.8,14,stable,-1.9,-15.4,13.8
+"Union County, Arkansas(6,10)",5139,89,77.8,101.5,46,stable,3.2,-0.5,7
+"Van Buren County, Arkansas(6,10)",5141,65.1,52.4,80.6,19,stable,3.9,-10.6,20.8
+"Washington County, Arkansas(6,10)",5143,67.1,61.8,72.8,119,stable,2.2,-8.1,13.8
+"White County, Arkansas(6,10)",5145,91.2,82.5,100.7,81,stable,-0.5,-9.1,8.8
+"Woodruff County, Arkansas(6,10)",5147,108.5,80.9,143.6,11,stable,6,-31,62.9
+"Yell County, Arkansas(6,10)",5149,88.1,73,105.7,24,stable,8.7,-13.5,36.5
+"Alameda County, California(7,8)",6001,46,44.5,47.6,687,falling,-2.2,-2.5,-1.8
+"Amador County, California(7,9)",6005,58.7,50.5,68.1,38,stable,0,-9.8,10.8
+"Butte County, California(7,9)",6007,61.4,57.3,65.8,169,stable,-4.4,-12.3,4.2
+"Calaveras County, California(7,9)",6009,52.3,45.1,60.5,41,stable,-7.2,-27.5,18.7
+"Colusa County, California(7,9)",6011,56,42.2,72.8,11,stable,-17.3,-43.3,20.7
+"Contra Costa County, California(7,8)",6013,49.2,47.4,51.1,554,falling,-1.3,-1.6,-1
+"Del Norte County, California(7,9)",6015,78.4,65.2,93.6,25,stable,-14.6,-39.3,20.2
+"El Dorado County, California(7,9)",6017,50,45.9,54.3,116,stable,-3.7,-11,4.1
+"Fresno County, California(7,9)",6019,50.8,48.6,53.1,411,stable,-1.8,-6.3,2.8
+"Glenn County, California(7,9)",6021,61.2,49.5,74.9,19,stable,0.2,-14.4,17.3
+"Humboldt County, California(7,9)",6023,56.4,51.1,62.2,86,stable,-2.5,-9.7,5.3
+"Imperial County, California(7,9)",6025,44.3,39.8,49.3,69,stable,-3.1,-11.9,6.6
+"Inyo County, California(7,9)",6027,45.7,35.2,58.8,13,stable,-15.5,-28.7,0.3
+"Kern County, California(7,9)",6029,55.7,53.2,58.4,371,stable,-3.2,-6.8,0.5
+"Kings County, California(7,9)",6031,48.8,43,55,54,stable,-3.7,-17.1,12
+"Lake County, California(7,9)",6033,73.7,66,82.2,70,stable,3.3,-9.2,17.7
+"Lassen County, California(7,9)",6035,60.9,48.9,75,19,stable,-9.2,-26.6,12.4
+"Los Angeles County, California(7,9)",6037,39.9,39.3,40.5,3701,falling,-5.7,-7,-4.5
+"Madera County, California(7,9)",6039,51.8,46.6,57.3,76,stable,-6.8,-19.1,7.4
+"Marin County, California(7,8)",6041,41.6,38.5,44.8,145,falling,-1.6,-2.2,-1.1
+"Mariposa County, California(7,9)",6043,54.6,43.2,68.8,17,stable,-10.2,-32.6,19.7
+"Mendocino County, California(7,9)",6045,52.2,46.3,58.6,62,stable,-4,-10.7,3.2
+"Merced County, California(7,9)",6047,56.9,52.3,61.7,120,falling,-7,-10.2,-3.7
+"Modoc County, California(7,9)",6049,43.7,29.4,63.8,6,stable,-19.5,-41.4,10.6
+"Monterey County, California(7,9)",6053,42.6,39.7,45.7,163,stable,-4.8,-12.2,3.1
+"Napa County, California(7,9)",6055,53.3,48.5,58.6,92,falling,-9.8,-15.3,-4.1
+"Nevada County, California(7,9)",6057,47.3,42.5,52.6,75,stable,-5.3,-18.3,9.8
+"Orange County, California(7,9)",6059,44.1,43,45.2,1326,falling,-6.6,-10.3,-2.7
+"Placer County, California(7,9)",6061,49.6,46.7,52.7,222,stable,-4.1,-14.8,7.8
+"Plumas County, California(7,9)",6063,44.2,34.5,56.4,15,stable,-0.4,-23.8,30.1
+"Riverside County, California(7,9)",6065,47.2,45.9,48.5,1031,stable,-3.4,-8.4,2
+"Sacramento County, California(7,9)",6067,56.9,55.1,58.7,793,stable,-2.8,-6.2,0.8
+"San Benito County, California(7,9)",6069,40.2,32.2,49.5,18,stable,-13.3,-26.7,2.5
+"San Bernardino County, California(7,9)",6071,49.5,48,51.1,807,falling,-6.4,-9.7,-2.9
+"San Diego County, California(7,9)",6073,49,47.9,50.1,1485,falling,-3.5,-5.4,-1.6
+"San Francisco County, California(7,8)",6075,49,46.9,51,459,falling,-2.3,-2.6,-2
+"San Joaquin County, California(7,9)",6077,56.8,54.1,59.6,353,stable,-5.9,-12.8,1.6
+"San Luis Obispo County, California(7,9)",6079,46.9,43.6,50.3,161,stable,-3.2,-15.8,11.4
+"San Mateo County, California(7,8)",6081,45.3,43.3,47.5,375,falling,-1.9,-2.2,-1.5
+"Santa Barbara County, California(7,9)",6083,42.1,39.4,44.9,189,stable,-4,-10,2.4
+"Santa Clara County, California(7,9)",6085,41.1,39.7,42.5,705,stable,-1,-4.8,2.9
+"Santa Cruz County, California(7,9)",6087,37.6,34.2,41.2,99,stable,-1.3,-23.1,26.6
+"Shasta County, California(7,9)",6089,62.5,58.1,67.2,154,stable,-4.5,-12.9,4.8
+"Siskiyou County, California(7,9)",6093,60.5,52.5,69.6,44,stable,-5.7,-14.3,3.8
+"Solano County, California(7,9)",6095,58.1,54.8,61.6,246,stable,-3.2,-8.1,1.9
+"Sonoma County, California(7,9)",6097,49.5,46.9,52.2,288,falling,-7,-9.1,-4.8
+"Stanislaus County, California(7,9)",6099,57.4,54.4,60.6,273,stable,-6.5,-12.9,0.3
+"Sutter County, California(7,9)",6101,56.3,49.9,63.4,56,stable,-4.3,-11.9,4.1
+"Tehama County, California(7,9)",6103,65.2,57.6,73.7,54,falling,-11.7,-21.6,-0.6
+"Trinity County, California(7,9)",6105,66.6,51.3,85.7,15,stable,-17.4,-35.6,5.9
+"Tulare County, California(7,9)",6107,47.9,44.8,51.3,174,falling,-11.2,-16.5,-5.5
+"Tuolumne County, California(7,9)",6109,58,51,65.7,52,stable,-8.5,-22.8,8.3
+"Ventura County, California(7,9)",6111,41.5,39.5,43.6,344,falling,-3.6,-5.3,-1.8
+"Yolo County, California(7,9)",6113,42.3,38,47,74,stable,-1.5,-16.1,15.6
+"Yuba County, California(7,9)",6115,68.1,59.2,77.8,44,stable,-8.1,-25.2,13.1
+"Adams County, Colorado(6,10)",8001,52.6,49.1,56.2,182,stable,-1.5,-15,14.1
+"Alamosa County, Colorado(6,10)",8003,47.9,33.3,66.7,7,stable,-2.4,-35.1,46.7
+"Arapahoe County, Colorado(6,10)",8005,47.5,44.9,50.3,253,stable,-6,-12,0.5
+"Archuleta County, Colorado(6,10)",8007,31.7,20.8,47.5,6,falling,-22,-37.2,-3.3
+"Baca County, Colorado(6,10)",8009,78.2,48,123.4,5,stable,-4.9,-39.6,49.9
+"Bent County, Colorado(6,10)",8011,44,25.8,71.5,4,stable,21.1,-26.9,100.5
+"Boulder County, Colorado(6,10)",8013,35.5,32.3,39,94,stable,-2.6,-8.8,4.1
+"Broomfield County, Colorado(6,10)",8014,48.4,39.9,58.1,23,stable,-6.2,-29.8,25.3
+"Chaffee County, Colorado(6,10)",8015,36.9,27.5,49.3,11,stable,-7.7,-34.4,30
+"Cheyenne County, Colorado(6,10)",8017,* ,*, *,3 or fewer,*,*,*,*
